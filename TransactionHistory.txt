@@ -1,0 +1,2 @@
+Tran001,Card01,16/01/2019,200000,Rut tien atm
+Tran002,Card03,11/029/2019,456000,Thanh toan tai Vin mart
